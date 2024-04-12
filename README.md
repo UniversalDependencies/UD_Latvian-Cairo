@@ -1,16 +1,16 @@
 # Summary
 
-This is an example treebank made to ilustrate UD annotation choices made Latvian, based on Cairo sample sentences. It is created at University of Latvia, Institute of Mathematics and Computer Science, [Artificial Intelligence Laboratory](http://ailab.lv).
+This is an example treebank made to ilustrate UD annotation choices made for Latvian based on the Cairo sample sentences. Created by [AI Lab](http://ailab.lv) at Institute of Mathematics and Computer Science, University of Latvia.
 
 
 # Introduction
 
-This example treebank is developed together with the Latvian UD Treebank (UD_Latvian-LVTB) by the same team with the same workflow and convertion tools. This treebank conains the 20 Cairo example sentences and is meant to be a quick reference on how various syntactic constructions of Latvian are annotated in UD. For more information on Latvian UD Treebank and LVTB see documentation on UD_Latvian-LVTB or [LVTB homepage](http://sintakse.korpuss.lv/).
+This treebank is developed together with the main Latvian treebank (UD_Latvian-LVTB) by the same team with the same workflow and convertion tools. It conains the 20 Cairo example sentences and is meant to be a quick reference on how various syntactic constructions of Latvian are annotated in UD. For more information on Latvian UD Treebank, see the documentation of [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB) or the original [LVTB](http://sintakse.korpuss.lv) treebank.
 
 
 # Acknowledgments
 
-This work was supported by European Regional Development Fund under the grant agreement No. 1.1.1.1/16/A/219 ([Full Stack of Language Resources for Natural Language Understanding and Generation in Latvian](https://github.com/LUMII-AILab/FullStack)) in synergy with the grant agreement No. 1.1.1.2/VIAA/1/16/188. The pilot project was supported by State Research Programme "National Identity". The work was continued within the State Research Programme "[Digital Resources for the Humanities](http://www.digitalhumanities.lv/projects/DHVPP-en/)" under the grant agreement No. VPP-IZM-DH-2020/1-0001, and now is continued in State Research Programme "[Research on Modern Latvian Language and Development of Language Technology](http://www.digitalhumanities.lv/projects/vpp-late/)" under the grant agreement No. VPP-LETONIKA-2021/1-0006.
+This work was supported by the State Research Programme's project [Research on Modern Latvian Language and Development of Language Technology](http://www.digitalhumanities.lv/projects/vpp-late/) under the grant agreement No. VPP-LETONIKA-2021/1-0006.
 
 
 ## References
