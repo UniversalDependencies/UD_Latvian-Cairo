@@ -5,7 +5,7 @@ This is an example treebank made to ilustrate UD annotation choices made for Lat
 
 # Introduction
 
-This treebank is developed together with the main Latvian treebank (UD_Latvian-LVTB) by the same team with the same workflow and convertion tools. It conains the 20 Cairo example sentences and is meant to be a quick reference on how various syntactic constructions of Latvian are annotated in UD. For more information on Latvian UD Treebank, see the documentation of [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB) or the original [LVTB](http://sintakse.korpuss.lv) treebank.
+This treebank is developed together with the main Latvian treebank (UD_Latvian-LVTB) by the same team with the same workflow and convertion tools. It contains the 20 Cairo example sentences and is meant to be a quick reference on how various syntactic constructions of Latvian are annotated in UD. For more information on Latvian UD Treebank, see the documentation of [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB) or the original [LVTB](http://sintakse.korpuss.lv) treebank.
 
 
 # Acknowledgments
