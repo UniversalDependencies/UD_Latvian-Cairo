@@ -35,8 +35,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Pretkalniņa, Lauma; Rituma, Laura; Saulīte, Baiba; Nešpore-Bērzkalne, Gunta; Grūzītis, Normunds
+Contributors: Pretkalniņa, Lauma; Rituma, Laura; Saulīte, Baiba; Nešpore-Bērzkalne, Gunta
 Contributing: elsewhere
-Contact: lauma@ailab.lv, normunds@ailab.lv
+Contact: lauma@ailab.lv
 ===============================================================================
 </pre>
