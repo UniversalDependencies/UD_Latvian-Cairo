@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="103" /><!-- ., ,, viņš, Pēteris, un, ?, būt, tu, viņa, marija, ne, vai, varēt, bet, es -->
+  <forms unique="115" /><!-- ., ,, un, ?, tu, viņa, ir, ne, vai, viņš, Marija, Pētera, Pēteris, bet, mašīnu -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">5</tag><!-- foršs, liels, mazs, sarkans, tavējs -->
+    <tag name="ADP">3</tag><!-- dēļ, no, uz -->
+    <tag name="ADV">8</tag><!-- kad, kā, līdzi, pārāk, tad, todien, vakar, ātri -->
+    <tag name="AUX">3</tag><!-- būt -->
+    <tag name="CCONJ">10</tag><!-- un, bet, ne, vai -->
+    <tag name="DET">5</tag><!-- kāds, mans, sava, savs, šī -->
+    <tag name="NOUN">27</tag><!-- mašīna, vēstule, bronza, brālis, draudzene, dzeršana, galvaspilsēta, iemesls, istaba, jausma -->
+    <tag name="PART">5</tag><!-- vai, kaut, ne, tikai -->
+    <tag name="PRON">20</tag><!-- viņš, tu, viņa, es, tas, kas, kurš -->
+    <tag name="PROPN">14</tag><!-- Pēteris, Marija, Brauna, Džeina, Francija, Igvasu, Parīze, Sems, Smits -->
+    <tag name="PUNCT">33</tag><!-- ., ,, ?, –, ! -->
+    <tag name="SCONJ">3</tag><!-- jo, ka, nekā -->
+    <tag name="VERB">32</tag><!-- varēt, tikt, uzrakstīt, apgriezt, apskauties, atmest, atnākt, atstāt, atvērt, būt -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="39">
+    <feat name="Aspect" value="Perf" upos="VERB">1</feat><!-- piegādāta -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN">20</feat><!-- mašīnu, to, Braunu, Mariju, Pēteri, Smitu, bronzu, dzeršanu, istabu, ko -->
+    <feat name="Case" value="Dat" upos="DET,NOUN,PRON">8</feat><!-- Man, Viņai, Viņiem, draudzenei, savai, savam, viņam, vīram -->
+    <feat name="Case" value="Gen" upos="DET,NOUN,PRON,PROPN">7</feat><!-- Pētera, Francijas, iemesla, jausmas, kāda, viņa -->
+    <feat name="Case" value="Loc" upos="ADJ,NOUN,PROPN">4</feat><!-- Parīzē, galvaspilsētā, krāsā, sarkanā -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">31</feat><!-- tu, viņa, viņš, Marija, Pēteris, Džeina, Es, Mans, Meitene, brālis -->
+    <feat name="Case" value="Voc" upos="PROPN">1</feat><!-- Sem -->
+    <feat name="Definite" value="Def" upos="ADJ">1</feat><!-- tavējais -->
+    <feat name="Definite" value="Ind" upos="ADJ,VERB">5</feat><!-- foršāks, liela, maza, piegādāta, sarkanā -->
+    <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- foršāks -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,VERB">6</feat><!-- liela, maza, piegādāta, sarkanā, tavējais, ātri -->
+    <feat name="Evident" value="Fh" upos="AUX,VERB">26</feat><!-- ir, uzrakstīja, Nevarēja, apskāvās, atstāja, centās, domā, gribi, ieguva, lika -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">31</feat><!-- viņa, Marija, mašīnu, Braunu, Džeina, Francijas, Mariju, Meitene, Parīzē, Viņai -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PRON,PROPN">33</feat><!-- viņš, Pētera, Pēteris, to, Mans, Pēteri, Sem, Smitu, Viņiem, brālis -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- atver -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">26</feat><!-- ir, uzrakstīja, Nevarēja, apskāvās, atstāja, centās, domā, gribi, ieguva, lika -->
+    <feat name="Number" value="Coll" upos="NOUN">1</feat><!-- zeltu -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON">3</feat><!-- Viņiem, kaimiņi, matus -->
+    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">72</feat><!-- tu, viņa, viņš, Marija, Pētera, Pēteris, mašīnu, to, Braunu, Džeina -->
+    <feat name="Person" value="1" upos="PRON,VERB">3</feat><!-- Es, Man, nevarēju -->
+    <feat name="Person" value="2" upos="PRON,VERB">9</feat><!-- tu, atver, domā, gribi, skaties, varēsi -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">34</feat><!-- viņa, ir, viņš, to, uzrakstīja, Nevarēja, Viņai, Viņiem, apskāvās, atstāja -->
+    <feat name="Polarity" value="Neg" upos="CCONJ,PART,VERB">7</feat><!-- ne, Nevarēja, nav, neizdarīja, nevarēju -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">31</feat><!-- ir, uzrakstīja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā -->
+    <feat name="Poss" value="Yes" upos="DET">3</feat><!-- Mans, savai, savam -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">4</feat><!-- to, tad, Šī -->
+    <feat name="PronType" value="Ind" upos="DET">1</feat><!-- kāda -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">3</feat><!-- Kā, kad, ko -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">19</feat><!-- tu, viņa, viņš, Es, Man, Mans, Viņai, Viņiem, savai, savam -->
+    <feat name="PronType" value="Rel" upos="PRON">1</feat><!-- kurš -->
+    <feat name="Reflex" value="Yes" upos="VERB">4</feat><!-- apskāvās, centās, izvēlēties, skaties -->
+    <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- varēsi -->
+    <feat name="Tense" value="Past" upos="VERB">17</feat><!-- uzrakstīja, Nevarēja, apskāvās, atstāja, centās, ieguva, lika, neizdarīja, nevarēju, nokrāsoja -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">9</feat><!-- ir, domā, gribi, līst, nav, skaties, šķiet -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">27</feat><!-- ir, uzrakstīja, Nevarēja, apskāvās, atstāja, atver, centās, domā, gribi, ieguva -->
+    <feat name="VerbForm" value="Inf" upos="VERB">7</feat><!-- apgriezt, atmest, atnākt, iet, izvēlēties, nomazgāt, tikt -->
+    <feat name="VerbForm" value="Part" upos="VERB">1</feat><!-- piegādāta -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">27</feat><!-- ir, uzrakstīja, Nevarēja, apskāvās, atstāja, atver, centās, domā, gribi, ieguva -->
+    <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- piegādāta -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="25">
+    <dep name="acl">1</dep>
+    <dep name="advcl">1</dep>
+    <dep name="advmod">7</dep>
+    <dep name="amod">2</dep>
+    <dep name="appos">1</dep>
+    <dep name="case">5</dep>
+    <dep name="cc">10</dep>
+    <dep name="ccomp">2</dep>
+    <dep name="conj">10</dep>
+    <dep name="cop">3</dep>
+    <dep name="csubj">1</dep>
+    <dep name="det">6</dep>
+    <dep name="discourse">5</dep>
+    <dep name="flat:name">2</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">2</dep>
+    <dep name="nmod">2</dep>
+    <dep name="nsubj">21</dep>
+    <dep name="obj">12</dep>
+    <dep name="obl">9</dep>
+    <dep name="orphan">3</dep>
+    <dep name="punct">33</dep>
+    <dep name="root">20</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">7</dep>
+  </deps>
+</treebank>
