@@ -19,6 +19,8 @@ This work was supported by the State Research Programme's project [Research on M
 
 
 # Changelog
+* 2024-11-15 v2.15
+  * Minor fixes regardint PRON/DET.
 
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
