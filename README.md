@@ -21,9 +21,9 @@ This work was supported by the State Research Programme's project [Research on M
 # Changelog
 
 * 2024-11-15 v2.15
-  * Introduced advmod:emph for various particles.
+  * Introduced `advmod:neg` for negation particles and `advmod:emph` for various other particles.
   * DET/PRON distinction is now done by lexeme, not by syntax tree.
-  * Most of comparison constructions considered secondary predicative components in Latvian are now advcl or acl in UD.
+  * Most of comparison constructions considered secondary predicative components in Latvian are now `advcl` or `acl` in UD.
 
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.

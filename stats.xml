@@ -7,7 +7,7 @@
   <size>
     <total><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></total>
   </size>
-  <lemmas unique="103" /><!-- ., ,, viņš, Pēteris, un, ?, būt, tu, viņa, marija, ne, vai, varēt, bet, es -->
+  <lemmas unique="103" /><!-- ., ,, viņš, Pēteris, un, ?, būt, tu, viņa, Marija, ne, vai, varēt, bet, es -->
   <forms unique="115" /><!-- ., ,, un, ?, tu, viņa, ir, ne, vai, viņš, Marija, Pētera, Pēteris, bet, mašīnu -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,10 +18,10 @@
     <tag name="AUX">4</tag><!-- būt, tikt -->
     <tag name="CCONJ">10</tag><!-- un, bet, ne, vai -->
     <tag name="DET">9</tag><!-- tas, kurš, kāds, mans, sava, savs, tavējs, šī -->
-    <tag name="NOUN">27</tag><!-- mašīna, vēstule, bronza, brālis, draudzene, dzeršana, galvaspilsēta, iemesls, istaba, jausma -->
+    <tag name="NOUN">26</tag><!-- mašīna, vēstule, bronza, brālis, draudzene, dzeršana, galvaspilsēta, iemesls, istaba, jausma -->
     <tag name="PART">5</tag><!-- vai, kaut, ne, tikai -->
     <tag name="PRON">17</tag><!-- viņš, tu, viņa, es, kas -->
-    <tag name="PROPN">14</tag><!-- Pēteris, Marija, Brauna, Džeina, Francija, Igvasu, Parīze, Sems, Smits -->
+    <tag name="PROPN">15</tag><!-- Pēteris, Marija, Brauna, Džeina, Francija, Igvasu, Parīze, Sems, Smits -->
     <tag name="PUNCT">33</tag><!-- ., ,, ?, –, ! -->
     <tag name="SCONJ">3</tag><!-- jo, ka, nekā -->
     <tag name="VERB">31</tag><!-- varēt, uzrakstīt, apgriezt, apskauties, atmest, atnākt, atstāt, atvērt, būt, censties -->
@@ -69,11 +69,12 @@
     <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- piegādāta -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="27">
+  <deps unique="28">
     <dep name="acl">1</dep>
     <dep name="advcl">2</dep>
     <dep name="advmod">7</dep>
     <dep name="advmod:emph">2</dep>
+    <dep name="advmod:neg">1</dep>
     <dep name="amod">2</dep>
     <dep name="appos">1</dep>
     <dep name="aux:pass">1</dep>
@@ -83,12 +84,12 @@
     <dep name="conj">10</dep>
     <dep name="cop">3</dep>
     <dep name="csubj">1</dep>
-    <dep name="det">6</dep>
-    <dep name="discourse">3</dep>
+    <dep name="det">5</dep>
+    <dep name="discourse">2</dep>
     <dep name="flat:name">2</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">3</dep>
-    <dep name="nmod">2</dep>
+    <dep name="nmod">3</dep>
     <dep name="nsubj">21</dep>
     <dep name="obj">12</dep>
     <dep name="obl">8</dep>
