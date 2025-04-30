@@ -6,9 +6,6 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></test>
   </size>
   <lemmas unique="103" /><!-- ., ,, viņš, Pēteris, un, ?, būt, tu, viņa, Marija, ne, vai, varēt, bet, es -->
   <forms unique="115" /><!-- ., ,, un, ?, tu, viņa, ir, ne, vai, viņš, Marija, Pētera, Pēteris, bet, mašīnu -->
@@ -93,9 +90,9 @@
     <dep name="iobj">2</dep>
     <dep name="mark">3</dep>
     <dep name="nmod">3</dep>
-    <dep name="nsubj">21</dep>
+    <dep name="nsubj">22</dep>
     <dep name="obj">12</dep>
-    <dep name="obl">8</dep>
+    <dep name="obl">7</dep>
     <dep name="orphan">3</dep>
     <dep name="punct">33</dep>
     <dep name="root">20</dep>

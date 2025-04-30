@@ -20,6 +20,9 @@ This work was supported by the State Research Programme's project [Research on M
 
 # Changelog
 
+* 2025-05-15 v2.16
+  * Introduced `ExtPos`.
+
 * 2024-11-15 v2.15
   * Introduced `advmod:neg` for negation particles and `advmod:emph` for various other particles.
   * DET/PRON distinction is now done by lexeme, not by syntax tree.
