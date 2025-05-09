@@ -93,9 +93,9 @@
     <dep name="iobj">2</dep>
     <dep name="mark">3</dep>
     <dep name="nmod">3</dep>
-    <dep name="nsubj">21</dep>
+    <dep name="nsubj">22</dep>
     <dep name="obj">12</dep>
-    <dep name="obl">8</dep>
+    <dep name="obl">7</dep>
     <dep name="orphan">3</dep>
     <dep name="punct">33</dep>
     <dep name="root">20</dep>
