@@ -6,9 +6,6 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>20</sentences><tokens>168</tokens><words>168</words><fused>0</fused></test>
   </size>
   <lemmas unique="103" /><!-- ., ,, viņš, Pēteris, un, ?, būt, tu, viņa, Marija, ne, vai, varēt, bet, es -->
   <forms unique="115" /><!-- ., ,, un, ?, tu, viņa, ir, ne, vai, viņš, Marija, Pētera, Pēteris, bet, mašīnu -->
@@ -59,7 +56,7 @@
     <feat name="PronType" value="Dem" upos="ADV,DET">4</feat><!-- to, tad, Šī -->
     <feat name="PronType" value="Ind" upos="DET">1</feat><!-- kāda -->
     <feat name="PronType" value="Int" upos="ADV,PRON">3</feat><!-- Kā, kad, ko -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">19</feat><!-- tu, viņa, viņš, Es, Man, Mans, Viņai, Viņiem, savai, savam -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">20</feat><!-- tu, viņa, viņš, Es, Man, Mans, Viņai, Viņiem, savai, savam -->
     <feat name="PronType" value="Rel" upos="DET">1</feat><!-- kurš -->
     <feat name="Reflex" value="Yes" upos="VERB">4</feat><!-- apskāvās, centās, izvēlēties, skaties -->
     <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- varēsi -->
