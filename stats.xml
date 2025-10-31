@@ -48,11 +48,11 @@
     <feat name="Number" value="Plur" upos="NOUN,PRON">3</feat><!-- Viņiem, kaimiņi, matus -->
     <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">72</feat><!-- tu, viņa, viņš, Marija, Pētera, Pēteris, mašīnu, to, Braunu, Džeina -->
     <feat name="Person" value="1" upos="PRON,VERB">3</feat><!-- Es, Man, nevarēju -->
-    <feat name="Person" value="2" upos="PRON,VERB">9</feat><!-- tu, atver, domā, gribi, skaties, varēsi -->
+    <feat name="Person" value="2" upos="DET,PRON,VERB">10</feat><!-- tu, atver, domā, gribi, skaties, tavējais, varēsi -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">34</feat><!-- viņa, ir, viņš, to, uzrakstīja, Nevarēja, Viņai, Viņiem, apskāvās, atstāja -->
     <feat name="Polarity" value="Neg" upos="CCONJ,PART,VERB">7</feat><!-- ne, Nevarēja, nav, neizdarīja, nevarēju -->
     <feat name="Polarity" value="Pos" upos="AUX,VERB">31</feat><!-- ir, uzrakstīja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā -->
-    <feat name="Poss" value="Yes" upos="DET">3</feat><!-- Mans, savai, savam -->
+    <feat name="Poss" value="Yes" upos="DET">4</feat><!-- Mans, savai, savam, tavējais -->
     <feat name="PronType" value="Dem" upos="ADV,DET">4</feat><!-- to, tad, Šī -->
     <feat name="PronType" value="Ind" upos="DET">1</feat><!-- kāda -->
     <feat name="PronType" value="Int" upos="ADV,PRON">3</feat><!-- Kā, kad, ko -->
