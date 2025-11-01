@@ -40,7 +40,7 @@ This work was supported by the State Research Programme's project [Research on M
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: cairo
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: converted from manual

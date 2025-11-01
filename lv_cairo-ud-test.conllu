@@ -1,6 +1,7 @@
 # newdoc id = c70-Cairo
 # newpar id = c70-Cairo-p1
 # sent_id = a-c70-Cairo-p1s1
+# parallel_id = cairo/1
 # text = Meitene uzrakstīja vēstuli savai draudzenei.
 1	Meitene	meitene	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p1s1w1
 2	uzrakstīja	uzrakstīt	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p1s1w2
@@ -11,6 +12,7 @@
 
 # newpar id = c70-Cairo-p2
 # sent_id = a-c70-Cairo-p2s1
+# parallel_id = cairo/2
 # text = Man šķiet, ka līst lietus.
 1	Man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-c70-Cairo-p2s1w1
 2	šķiet	šķist	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p2s1w2|SpaceAfter=No
@@ -22,6 +24,7 @@
 
 # newpar id = c70-Cairo-p3
 # sent_id = a-c70-Cairo-p3s1
+# parallel_id = cairo/3
 # text = Viņš centās atmest smēķēšanu un dzeršanu.
 1	Viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-c70-Cairo-p3s1w1
 2	centās	censties	VERB	voyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p3s1w2
@@ -33,6 +36,7 @@
 
 # newpar id = c70-Cairo-p4
 # sent_id = a-c70-Cairo-p4s1
+# parallel_id = cairo/4
 # text = Vai tu gribi iet?
 1	Vai	vai	PART	q	_	3	discourse	3:discourse	LvtbNodeId=a-c70-Cairo-p4s1w1
 2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-c70-Cairo-p4s1w2
@@ -42,6 +46,7 @@
 
 # newpar id = c70-Cairo-p5
 # sent_id = a-c70-Cairo-p5s1
+# parallel_id = cairo/5
 # text = Sem, atver logu!
 1	Sem	Sems	PROPN	npmsv1	Case=Voc|Gender=Masc|Number=Sing	3	vocative	3:vocative	LvtbNodeId=a-c70-Cairo-p5s1w1|SpaceAfter=No
 2	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-c70-Cairo-p5s1w2
@@ -51,6 +56,7 @@
 
 # newpar id = c70-Cairo-p6
 # sent_id = a-c70-Cairo-p6s1
+# parallel_id = cairo/6
 # text = Viņa lika savam vīram nomazgāt mašīnu.
 1	Viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p6s1w1
 2	lika	likt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p6s1w2
@@ -62,6 +68,7 @@
 
 # newpar id = c70-Cairo-p7
 # sent_id = a-c70-Cairo-p7s1
+# parallel_id = cairo/7
 # text = Pētera kaimiņi nokrāsoja žogu sarkanā krāsā.
 1	Pētera	Pēteris	PROPN	npmsg2	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-c70-Cairo-p7s1w1
 2	kaimiņi	kaimiņš	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	LvtbNodeId=a-c70-Cairo-p7s1w2
@@ -73,6 +80,7 @@
 
 # newpar id = c70-Cairo-p8
 # sent_id = a-c70-Cairo-p8s1
+# parallel_id = cairo/8
 # text = Mans tētis ir foršāks nekā tavējais.
 1	Mans	mans	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-c70-Cairo-p8s1w1
 2	tētis	tētis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-c70-Cairo-p8s1w2
@@ -84,6 +92,7 @@
 
 # newpar id = c70-Cairo-p9
 # sent_id = a-c70-Cairo-p9s1
+# parallel_id = cairo/9
 # text = Marija ieguva bronzu, Pēteris — sudrabu, un Džeina — zeltu.
 1	Marija	Marija	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w1
 2	ieguva	iegūt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p9s1w2
@@ -103,6 +112,7 @@
 
 # newpar id = c70-Cairo-p10
 # sent_id = a-c70-Cairo-p10s1
+# parallel_id = cairo/10
 # text = Vai Igvasu ir liela vai maza valsts?
 1	Vai	vai	PART	q	_	7	discourse	7:discourse	LvtbNodeId=a-c70-Cairo-p10s1w1
 2	Igvasu	Igvasu	PROPN	np0000	_	7	nsubj	7:nsubj	LvtbNodeId=a-c70-Cairo-p10s1w2
@@ -115,6 +125,7 @@
 
 # newpar id = c70-Cairo-p11
 # sent_id = a-c70-Cairo-p11s1
+# parallel_id = cairo/11
 # text = Nevarēja izvēlēties ne Pēteri Smitu, ne Mariju Braunu.
 1	Nevarēja	varēt	VERB	vonisi330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p11s1w1
 2	izvēlēties	izvēlēties	VERB	vmyn0t3000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	1	xcomp	1:xcomp	LvtbNodeId=a-c70-Cairo-p11s1w2
@@ -129,6 +140,7 @@
 
 # newpar id = c70-Cairo-p12
 # sent_id = a-c70-Cairo-p12s1
+# parallel_id = cairo/12
 # text = Viņiem nav ne jausmas, kurš to uzrakstīja.
 1	Viņiem	viņš	PRON	pp3mpdn	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-c70-Cairo-p12s1w1
 2	nav	būt	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p12s1w2
@@ -142,6 +154,7 @@
 
 # newpar id = c70-Cairo-p13
 # sent_id = a-c70-Cairo-p13s1
+# parallel_id = cairo/13
 # text = Uz ko tu skaties?
 1	Uz	uz	ADP	spsa	_	2	case	2:case	LvtbNodeId=a-c70-Cairo-p13s1w1
 2	ko	kas	PRON	pq000an	Case=Acc|PronType=Int	4	obl	4:obl:uz	LvtbNodeId=a-c70-Cairo-p13s1w2
@@ -151,6 +164,7 @@
 
 # newpar id = c70-Cairo-p14
 # sent_id = a-c70-Cairo-p14s1
+# parallel_id = cairo/14
 # text = Kā tu domā, kad tu varēsi atnākt?
 1	Kā	kā	ADV	r0n	PronType=Int	3	advmod	3:advmod	LvtbNodeId=a-c70-Cairo-p14s1w1
 2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-c70-Cairo-p14s1w2
@@ -164,6 +178,7 @@
 
 # newpar id = c70-Cairo-p15
 # sent_id = a-c70-Cairo-p15s1
+# parallel_id = cairo/15
 # text = Viņš nopirka mašīnu, bet viņa brālis tikai velosipēdu.
 1	Viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p15s1w1
 2	nopirka	nopirkt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p15s1w2
@@ -179,6 +194,7 @@
 
 # newpar id = c70-Cairo-p16
 # sent_id = a-c70-Cairo-p16s1
+# parallel_id = cairo/16
 # text = Pēteris un Marija apskāvās un tad atstāja istabu.
 1	Pēteris	Pēteris	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj|7:nsubj	LvtbNodeId=a-c70-Cairo-p16s1w1
 2	un	un	CCONJ	cc	_	3	cc	3:cc	LvtbNodeId=a-c70-Cairo-p16s1w2
@@ -192,6 +208,7 @@
 
 # newpar id = c70-Cairo-p17
 # sent_id = a-c70-Cairo-p17s1
+# parallel_id = cairo/17
 # text = Viņai vajadzēja apgriezt matus, bet kaut kāda iemesla dēļ viņa todien to neizdarīja.
 1	Viņai	viņa	PRON	pp3fsdn	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-c70-Cairo-p17s1w1
 2	vajadzēja	vajadzēt	VERB	vonisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p17s1w2
@@ -211,6 +228,7 @@
 
 # newpar id = c70-Cairo-p18
 # sent_id = a-c70-Cairo-p18s1
+# parallel_id = cairo/18
 # text = Es nevarēju tikt viņam līdzi, jo viņš skrēja pārāk ātri.
 1	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-c70-Cairo-p18s1w1
 2	nevarēju	varēt	VERB	vonisi31say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p18s1w2
@@ -227,6 +245,7 @@
 
 # newpar id = c70-Cairo-p19
 # sent_id = a-c70-Cairo-p19s1
+# parallel_id = cairo/19
 # text = Šī vēstule ir no Pētera un tika piegādāta vakar.
 1	Šī	šī	DET	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-c70-Cairo-p19s1w1
 2	vēstule	vēstule	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|8:nsubj:pass	LvtbNodeId=a-c70-Cairo-p19s1w2
@@ -241,6 +260,7 @@
 
 # newpar id = c70-Cairo-p20
 # sent_id = a-c70-Cairo-p20s1
+# parallel_id = cairo/20
 # text = Viņa uzauga Parīzē, Francijas galvaspilsētā.
 1	Viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p20s1w1
 2	uzauga	uzaugt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p20s1w2
